@@ -1,0 +1,8 @@
+{
+  "name": "WeCare Hospital",
+  "description": "WeCare Hospital - A world-class multi-specialty healthcare institution dedicated to compassionate care, advanced medical technology, patient-centered healing, and seamless online appointment scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
